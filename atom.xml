@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://samueltbrown.github.com/atom.xml" rel="self"/>
+  <link href="http://samueltbrown.github.com/"/>
+  <updated>2012-07-17T00:26:41-04:00</updated>
+  <id>http://samueltbrown.github.com/</id>
+  <author>
+    <name><![CDATA[Sam Brown]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
